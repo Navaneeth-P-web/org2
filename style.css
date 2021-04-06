@@ -1,0 +1,17 @@
+body{
+    background-color:aquamarine;
+}
+p{
+    color:rgb(196, 130, 45);
+  }
+   li{
+       color:darkgreen;
+   }
+  img{
+      border: solid;
+      display: flexbox;
+      color:thistle
+  }
+  h1{
+      background-color:yellow;
+  }
