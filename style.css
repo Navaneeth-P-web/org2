@@ -9,8 +9,9 @@ p{
    }
   img{
       border: solid;
-      display: flexbox;
+      display: flex;
       color:thistle
+          flex-wrap:wrap
   }
   h1{
       background-color:yellow;
