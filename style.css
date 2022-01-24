@@ -1,18 +1,19 @@
+
 body{
-    background-color:aquamarine;
+    background-color: rgb(221, 240, 240);
 }
-p{
-    color:rgb(196, 130, 45);
-  }
-   li{
-       color:darkgreen;
-   }
-  img{
-      border: solid;
-      display: flex;
-      color:thistle
-          flex-wrap:wrap
-  }
-  h1{
-      background-color:yellow;
-  }
+h1 {
+    color:rgb(221, 240, 240)
+}
+
+.header{
+    background-color:rgb(17, 75, 102);
+    display:flex;
+    justify-content:space-between;
+}
+
+.grid{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
